@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CatMouse/CatMouse/.vs/CatMouse/v15
+/CatMouse/CatMouse/CatMouse/bin/Debug/netcoreapp2.2
+/CatMouse/CatMouse/CatMouse/obj/Debug/netcoreapp2.2
+/CatMouse/CatMouse/CatMouse/obj
